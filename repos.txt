@@ -1,0 +1,17 @@
+borshchov-vyacheslav	https://github.com/slavyanchi/rust-practise-
+halchun-anton	https://github.com/Zagiller/Rast_practis
+huzev-maksym	https://github.com/totsamichelovek/rust-practice
+yerokhin-nikita	https://github.com/KoolzDragon/rust_practice
+kachanov-yuriy	https://github.com/YuraKachanov1302/rust_practice
+kyrychenko-tamila	https://github.com/Tam1l4/2practice
+kirytsa-kirill	https://github.com/KiritsaKirill/Rust_practics
+maksymets-artem	https://github.com/F4ntom1756/rust-practice
+malon-taras	https://github.com/karas157/rust-practice
+nazarenko-vadym	https://github.com/vadimnzrnk/rust-practice
+prykhodko-yevheniy	https://github.com/knzr133/rust-practice
+suprun-yevheniy	https://github.com/ZavGin02/PR
+telychko-nazariy	https://github.com/Mazalh/-
+franchuk-volodymyr	https://github.com/Legenchik/rust-practice
+shulha-yevheniy	https://github.com/shulga-eu/rust-practic
+lysechko-andriy	https://github.com/Archdeb/rust-practice
+shvets-oleksandr	https://github.com/l1pker/rust-practice
