@@ -10,8 +10,7 @@ malon-taras	https://github.com/karas157/rust-practice
 nazarenko-vadym	https://github.com/vadimnzrnk/rust-practice
 prykhodko-yevheniy	https://github.com/knzr133/rust-practice
 suprun-yevheniy	https://github.com/ZavGin02/PR
+taran-artem	https://github.com/rivalmans/rust-practice
 telychko-nazariy	https://github.com/Mazalh/-
 franchuk-volodymyr	https://github.com/Legenchik/rust-practice
 shulha-yevheniy	https://github.com/shulga-eu/rust-practic
-lysechko-andriy	https://github.com/Archdeb/rust-practice
-shvets-oleksandr	https://github.com/l1pker/rust-practice
