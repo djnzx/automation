@@ -2,7 +2,6 @@
 FILE="repos.txt"
 
 while IFS=$'\t' read -r id url; do
-    # Check if the repository folder already exists
     if [ -d "$id" ]; then
         echo "Updating $id..."
         cd "$id" || exit
